@@ -1,0 +1,11 @@
+{
+  "name": "sit2",
+  "description": "This is SIT2 environment",
+  "default_attributes": {
+    "SortAs": "SGML",
+    "GlossTerm": "Standard Generalized Markup Language"
+  },
+  "override_attributes": {
+    "ID": "SGML"
+  }
+}
