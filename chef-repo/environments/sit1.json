@@ -6,6 +6,8 @@
     "GlossTerm": "Standard Generalized Markup Language"
   },
   "override_attributes": {
-    "ID": "AML"
+    "Country": "France",
+    "Capital": "Paris",
+    "Currency": "Euro"
   }
 }
